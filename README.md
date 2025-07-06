@@ -21,7 +21,7 @@ A minimal, educational implementation of a Large Language Model (LLM) inspired b
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/llm-from-scratch.git
+git clone https://github.com/msarathrahul/llm_scratch.git
 cd llm-from-scratch
 ```
 
